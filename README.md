@@ -17,5 +17,5 @@ I made a magical 8 ball app, it will give you the answers to all the tricky ques
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![](https://github.com/ArafatRohan93/Magic_8_Ball_Flutter/blob/master/Screenshot1.png)
-![](https://github.com/ArafatRohan93/Magic_8_Ball_Flutter/blob/master/Screenshot2.png)
+<img src="https://github.com/ArafatRohan93/Magic_8_Ball_Flutter/blob/master/Screenshot1.png" width="300" height="500">
+<img src="https://github.com/ArafatRohan93/Magic_8_Ball_Flutter/blob/master/Screenshot2.png" width="300" height="500">
